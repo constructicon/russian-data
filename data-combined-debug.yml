@@ -1,0 +1,1597 @@
+---
+872:
+  name: 'VP во все глаза'
+  UD_name: 'VP во все глаза'
+  illustration: 'Смотри во все глаза, чтобы никто не прошёл!'
+  cefr_level: C1
+  definitions:
+    - russian: |
+         Конструкция указывает на максимальную степень интенсивности признака или действия. Конструкция обозначает, что [некоторый участник]Participant [смотрит]Action на [объект]Theme с большим вниманием, очень пристально.
+    - norwegian: |
+         Konstruksjonen angir et kjennetegns eller en handlings høyeste intensitetsnivå. Konstruksjonen betyr at [en gitt deltaker]Participant [ser på]Action [et objekt]Theme med stor oppmerksomhet, svært intenst.
+  examples:
+    - |
+         [Сын]Participant с любопытством [глядел]Action во все глаза на [действия папы]Theme.
+    - |
+         А [она]Participant стоит и [смотрит]Action на [меня]Theme во все глаза.
+    - |
+         [Я]Participant во все глаза [уставился]Action на [нее]Theme.
+    - |
+         [Какая-то старуха]Participant [глазела]Action на [него]Theme во все глаза.
+    - |
+         [Толпа]Participant во все глаза [разглядывала]Action [принцессу]Theme.
+  morphology:
+    - VP
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Prepositional Phrase
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+    - Pronoun
+  semantic_roles:
+    - Action
+    - Theme
+    - Participant
+  intonation:
+    - Not applicable
+  usage_label: ~
+  dependency_structure:
+    - '[root VP [obl [case во] [det все] глаза]]'
+  dependency_structure_of_illustration:
+    - '[root Смотри [obl [case во] [det все] глаза], [advcl [mark чтобы] [nsubj никто] [advmod не] прошёл]!]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - смотреть
+    - глядеть
+    - разглядывать
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Degree of intensity
+      subtypes:
+        - type: Maximizer
+    - type: Manner
+  family:
+    - |
+      ""
+313:
+  name: 'согласно NP-Dat, Cl'
+  UD_name: 'согласно NP-Dat, Cl'
+  illustration: 'Согласно завещанию, ей переходит дом.'
+  cefr_level: A2
+  definitions:
+  examples:
+  morphology:
+    - NP
+    - Dat
+    - Cl
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Preposition
+  semantic_roles:
+    - ~
+  intonation:
+    - Declarative
+  usage_label: Formal
+  dependency_structure:
+    - '[root [parataxis [case согласно] NP-Dat]'
+    - 'Cl]'
+  dependency_structure_of_illustration:
+    - '[root [parataxis [case Согласно] завещанию], [iobj ей] переходит [nsubj дом].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Source of information
+  family:
+    - |
+      ""
+2289:
+  name: 'что/чего это вдруг Cl?'
+  UD_name: 'что/чего это вдруг Cl?'
+  illustration: 'Что это вдруг тебя заинтересовала литература?'
+  cefr_level: B2
+  definitions:
+  examples:
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Pronoun
+    - Particle
+    - Adverb
+  semantic_roles:
+    - ~
+  intonation:
+    - Interrogative
+  usage_label: Colloquial
+  dependency_structure:
+    - '[root [advmod Что] [expl это] [advmod вдруг] Cl?]'
+    - '[root [advmod чего] [expl это] [advmod вдруг] Cl?]'
+  dependency_structure_of_illustration:
+    - '[root [advmod Что] [expl это] [advmod вдруг] [obj тебя] заинтересовала [nsubj литература]?]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Cause
+    - type: Reaction to the previous discourse
+      subtypes:
+        - type: Surprise
+  family:
+    - |
+      ""
+1068:
+  name: 'и что PronPers как маленький!'
+  UD_name: 'и что PronPers как маленький!'
+  illustration: 'И что ты как маленький!'
+  cefr_level: B2
+  definitions:
+  examples:
+  morphology:
+    - PronPers
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Particle
+    - Pronoun
+    - Conjunction
+    - Adjective
+  semantic_roles:
+    - ~
+  intonation:
+    - Exclamatory
+  usage_label: Colloquial
+  dependency_structure:
+    - '[root [cc и] что [dep PronPers] [obl [case как] маленький]!]'
+  dependency_structure_of_illustration:
+    - '[root [cc И] что [nsubj ты] [obl [case как] маленький]!]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+  semantic_types:
+    - type: Assessment
+      subtypes:
+        - type: Assessment specific to people
+          subtypes:
+            - type: Ethics/Behavior
+    - type: Attitude
+      subtypes:
+        - type: Dissatisfaction
+          subtypes:
+            - type: Disapproval
+    - type: Polarity value
+      subtypes:
+        - type: Negative
+  family:
+    - |
+      "Disapproval, Ethics/Behavior"
+2287:
+  name: '(А/но) если серьезно/откровенно, (то) Cl'
+  UD_name: '(А/но) если серьезно/откровенно, (то) Cl'
+  illustration: 'Но, если серьёзно, то я очень семейный человек.'
+  cefr_level: B1
+  definitions:
+  examples:
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Biclausal Construction
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+  part_of_speech_of_anchor:
+    - Conjunction
+    - Adverb
+  semantic_roles:
+    - ~
+  intonation:
+    - Declarative
+  usage_label: Colloquial
+  dependency_structure:
+    - '[root [cc но] [advcl [mark если] серьёзно], [mark то] Cl]'
+    - '[root [cc а] [advcl [mark если] серьёзно], [mark то] Cl]'
+    - '[root [mark если] серьёзно], [mark то] Cl]'
+    - '[root [cc но], [advcl [mark если] откровенно], [mark то] Cl]'
+    - '[root [cc а], [advcl [mark если] откровенно], [mark то] Cl]'
+    - '[root [mark если] откровенно], [mark то] Cl]'
+    - '[root [cc но] [advcl [mark если] серьёзно], Cl]'
+    - '[root [cc а] [advcl [mark если] серьёзно], Cl]'
+    - '[root [mark если] серьёзно], Cl]'
+    - '[root [cc но], [advcl [mark если] откровенно], Cl]'
+    - '[root [cc а], [advcl [mark если] откровенно], Cl]'
+    - '[root [mark если] откровенно], Cl]'
+  dependency_structure_of_illustration:
+    - '[root [cc Но], [advcl [mark если] серьёзно], [mark то] [nsubj я] [amod [advmod очень] семейный] человек.]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Discourse structure
+      subtypes:
+        - type: Discourse additive
+    - type: Reaction to the previous discourse
+      subtypes:
+        - type: Disagreement
+  family:
+    - |
+      ""
+2169:
+  name: 'NP-Nom разбираться в NP-Loc'
+  UD_name: 'NP-Nom разбираться в NP-Loc'
+  illustration: 'Он хорошо разбирается в машинах.'
+  cefr_level: A2
+  definitions:
+  examples:
+  morphology:
+    - NP
+    - Nom
+    - Loc
+  syntactic_type_of_construction:
+    - Predicate Argument Construction
+  syntactic_function_of_anchor:
+    - Verb Predicate
+    - Government
+  syntactic_structure_of_anchor:
+    - Argument Structure
+  part_of_speech_of_anchor:
+    - Verb
+    - Preposition
+  semantic_roles:
+    - ~
+  intonation:
+    - Not applicable
+  usage_label: ~
+  dependency_structure:
+    - '[root [nsubj NP-Nom] разбираться [obl [case в] NP-Loc]]'
+  dependency_structure_of_illustration:
+    - '[root [nsubj Он] [advmod хорошо] разбирается [obl [case в] машинах].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+  semantic_types:
+    - type: Assessment
+      subtypes:
+        - type: Assessment specific to people
+          subtypes:
+            - type: Capacity/Intellect
+    - type: Polarity value
+      subtypes:
+        - type: Positive
+  family:
+    - |
+      "Capacity/Intellect"
+1242:
+  name: 'Cl затем, чтобы Cl'
+  UD_name: 'Cl затем, чтобы Cl'
+  illustration: 'Мы пришли затем, чтобы победить.'
+  cefr_level: B2
+  definitions:
+    - russian: |
+         Конструкция указывает на [цель]Purpose, ради которой [участник]Agent совершает некоторое [действие]Action или происходит некоторая [ситуация]Situation. Конструкция может начинаться только с описания совершаемого действия и не может начинаться с описания цели.
+    - norwegian: |
+         Konstruksjonen angir [målet]Purpose med at [deltakeren]Agent utfører en gitt [handling]Action eller at en [situasjon]Situation pågår. Konstruksjonen kan kun starte med å beskrive handlingen som blir utført og kan ikke starte med å beskrive målet.
+  examples:
+    - |
+         Он отвез ее в больницу и просиживал там дни и ночи, [отлучаясь]Action только затем, чтобы [сдать очередной экзамен в университете]Purpose.
+    - |
+         Может, [буква эта нужна]Situation лишь затем, чтобы [получилось название со смыслом]Purpose.
+    - |
+         [Большинство]Agent [подходили]Action именно затем, чтобы [взглянуть на актёра хотя бы издали]Purpose.
+    - |
+         И [он]Agent меня [вызывает]Action затем, чтобы [о чём-то поговорить со мной наедине]Purpose, да ещё о чём-то таком, что касается вас.
+    - |
+         [Я]Agent [пишу]Action об этом вовсе не затем, чтобы [обвинить прекрасного работника науки]Purpose.
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Subordinator
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+  part_of_speech_of_anchor:
+    - Conjunction
+  semantic_roles:
+    - Action
+    - Agent
+    - Purpose
+    - Situation
+  intonation:
+    - Declarative
+  usage_label: ~
+  dependency_structure:
+    - '[root Cl [advmod затем'
+    - '[advcl [mark чтобы] Cl]]]'
+  dependency_structure_of_illustration:
+    - '[root [nsubj Мы] пришли [advmod затем, [advcl [mark чтобы] победить]].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - Not applicable
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Purpose
+  family:
+    - |
+      ""
+496:
+  name: 'NP-Gen.Pl NumCrd'
+  UD_name: 'NP-Gen.Plur NumCrd'
+  illustration: 'На лекцию пришли человек двадцать.'
+  cefr_level: B1
+  definitions:
+  examples:
+  morphology:
+    - NP
+    - Gen
+    - Pl
+    - NumCrd
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Not Applicable
+  syntactic_structure_of_anchor:
+    - Inversion
+  part_of_speech_of_anchor:
+    - Not Applicable
+  semantic_roles:
+    - ~
+  intonation:
+    - Not applicable
+  usage_label: Colloquial
+  dependency_structure:
+    - '[dep NP-Gen.Pl [nummod NumCrd]]]'
+  dependency_structure_of_illustration:
+    - '[root [obl [case На] лекцию] пришли [nsubj человек [nummod:gov двадцать]].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Degree of accuracy
+      subtypes:
+        - type: Approximate
+    - type: Measure
+      subtypes:
+        - type: Unrestricted domain
+  family:
+    - |
+      ""
+519:
+  name: 'VP по NP-Acc'
+  UD_name: 'VP по NP-Acc'
+  illustration: 'Родители пошли по грибы.'
+  cefr_level: B1
+  definitions:
+  examples:
+  morphology:
+    - VP
+    - NP
+    - Acc
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Preposition
+  semantic_roles:
+    - ~
+  intonation:
+    - Not applicable
+  usage_label: Colloquial
+  dependency_structure:
+    - '[root VP [obl [case по] NP-Acc]]'
+  dependency_structure_of_illustration:
+    - '[root [nsubj Родители] пошли [obl [case по] грибы].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Purpose
+  family:
+    - |
+      ""
+557:
+  name: 'Cl, чтобы Cl'
+  UD_name: 'Cl, чтобы Cl'
+  illustration: 'Я сообщил другу номер поезда, чтобы он меня встретил.'
+  cefr_level: B1
+  definitions:
+    - russian: |
+         Конструкция обозначает, что участник ситуации совершает некоторое [действие]Action с определенной [целью]Purpose.
+  examples:
+    - |
+         В вечных пробках города забываешь, что автомобиль [создан]Action, чтобы [на нем ездить…]Purpose
+    - |
+         Я взял фонарик и [осветил лестницу]Action, чтобы [можно было найти упавший браслет.]Purpose
+    - |
+         Порежьте хлеб на кубики и [оставьте]Action, чтобы [он немного подсох.]Purpose
+    - |
+         Виталий [приехал]Action, чтобы [я помог ему подготовиться к экзамену.]Purpose
+    - |
+         Чтобы [у нас не было безработных]Purpose, нужно [создать новые рабочие места.]Action
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Subordinator
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Conjunction
+  semantic_roles:
+    - Action
+    - Purpose
+  intonation:
+    - Declarative
+  usage_label: ~
+  dependency_structure:
+    - '[root Cl'
+    - '[advcl [mark чтобы] Cl]]'
+  dependency_structure_of_illustration:
+    - '[root [nsubj Я] сообщил [iobj другу] [obj номер [nmod поезда]], [advcl [mark чтобы] [nsubj он] [obj меня] встретил].]'
+  comment: |
+      'См. близкую по значению конструкцию 559.'
+  common_fillers:
+    - Not applicable
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Purpose
+  family:
+    - |
+      ""
+556:
+  name: 'NP-Nom слыть NP-Ins'
+  UD_name: 'NP-Nom слыть NP-Ins'
+  illustration: 'Она слыла отличницей.'
+  cefr_level: B1
+  definitions:
+    - russian: |
+         Конструкция обозначает, что [некоторый участник ситуации]Participant имеет определенную репутацию, известен окружающим своим [статусом]Status или [качеством]Property.
+  examples:
+    - |
+         Ян Вермеер был счастлив в законном браке: eго [жена]Participant слыла [красавицей]Property, выступала моделью для многих картин мужа.
+    - |
+         [Макаров]Participant слыл [человеком умным, образованным, опытным]Property.
+    - |
+         [Хрусталева]Participant слыла [женщиной не бедной]Property.
+    - |
+         В народном сознании [Шахназаров]Participant слывет [режиссером доброго и смешного кино]Status.
+    - |
+         [Дима и его приятели]participant слыли [авторитетными хулиганами]Status среди подростков.
+  morphology:
+    - NP
+    - Nom
+    - Ins
+  syntactic_type_of_construction:
+    - Predicate Argument Construction
+  syntactic_function_of_anchor:
+    - Verb Predicate
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Verb
+  semantic_roles:
+    - Participant
+    - Property
+    - Status
+  intonation:
+    - Not applicable
+  usage_label: Obsolete
+  dependency_structure:
+    - '[root [nsubj NP-Nom] слыть [xcomp NP-Ins]]'
+  dependency_structure_of_illustration:
+    - '[root [nsubj Она] слыла [xcomp отличницей].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - оптимистом
+    - отличницей
+    - красавицей
+    - хулиганом
+    - специалистом
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Salient property
+      subtypes:
+        - type: Status
+  family:
+    - |
+      ""
+384:
+  name: 'чуть (ли) не XP'
+  UD_name: 'чуть (ли) не XP'
+  illustration: 'Это чуть ли не в прошлом году случилось.'
+  cefr_level: B1
+  definitions:
+  examples:
+  morphology:
+    - XP
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Negation
+  part_of_speech_of_anchor:
+    - Particle
+    - Negation Marker
+  semantic_roles:
+    - ~
+  intonation:
+    - Not applicable
+  usage_label: Colloquial
+  dependency_structure:
+    - '[root [advmod [advmod чуть [advmod ли] не]] XP]'
+    - '[root [advmod [advmod чуть не]] XP]'
+  dependency_structure_of_illustration:
+    - '[root [nsubj Это] [obl [advmod [advmod чуть [advmod ли] не]] [case в] [amod прошлом] году] случилось.]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Degree of accuracy
+      subtypes:
+        - type: Approximate
+    - type: Epistemic modality (Degree of certainty)
+      subtypes:
+        - type: Low degree of certainty
+  family:
+    - |
+      ""
+1312:
+  name: 'VP в целях NP-Gen'
+  UD_name: 'VP в целях NP-Gen'
+  illustration: 'Лучше сделать инъекцию в целях профилактики.'
+  cefr_level: C1
+  definitions:
+  examples:
+  morphology:
+    - VP
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Prepositional Phrase
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - ~
+  intonation:
+    - Not applicable
+  usage_label: Formal
+  dependency_structure:
+    - '[root VP [obl [case в] целях [nmod NP-Gen]]]'
+  dependency_structure_of_illustration:
+    - '[root Лучше [csubj сделать [obj инъекцию]] [obl [case в] целях [nmod профилактики]].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Purpose
+  family:
+    - |
+      ""
+537:
+  name: 'NP-Nom Cop (NP-Nom) не из Adj-Gen.Pl'
+  UD_name: 'NP-Nom Cop (NP-Nom) не из Adj-Gen.Plur'
+  illustration: 'Спа – это удовольствие не из дешёвых.'
+  cefr_level: A2
+  definitions:
+    - russian: |
+         Конструкция обозначает, что некоторый [объект]Theme или [участник]Participant не обладает определенным [признаком]Property, не принадлежит к [числу объектов или участников, которые этот признак имеют]Set.
+    - norwegian: |
+         Konstruksjonen betyr at et gitt [objekt]Theme eller [en deltaker]Participant ikke besitter et visst [kjennetegn]Property og ikke er blant [de objektene eller deltakerne som har dette kjennetegnet]Set.
+  examples:
+    - |
+         Вот, племянник, один из секретов того, почему [твоя тетя Маро]Participant не из [самых бедных]Set.
+    - |
+         [Он]Participant был не из [местных]Set, так как вырос в недалёком местечке, там же получил воспитание.
+    - |
+         ― [Вопрос]Theme ― не из [приятных]Set, но раз задан, то отвечу на него так.
+    - |
+         Сегодня у нее был тяжелый день. Но у мужчины, как видно, тоже [день]Theme был не из [легких]Set.
+    - |
+         [Прошедший год]Theme для продвижения товара на региональный рынок был не из [лучших]Set.
+  morphology:
+    - NP
+    - Nom
+    - Cop
+    - Adj
+    - Gen
+    - Pl
+  syntactic_type_of_construction:
+    - Copula Construction
+  syntactic_function_of_anchor:
+    - Praedicative Expression
+  syntactic_structure_of_anchor:
+    - Negation
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Negation Marker
+    - Preposition
+  semantic_roles:
+    - Property
+    - Theme
+    - Participant
+    - Set
+  intonation:
+    - Declarative
+  usage_label: ~
+  dependency_structure:
+    - '[root [nsubj NP-Nom] [cop Cop] NP-Nom [nmod [advmod не] [case из] Adj-Gen.Pl]]'
+    - '[root [nsubj NP-Nom] [cop Cop] [advmod не] [case из] Adj-Gen.Pl]'
+  dependency_structure_of_illustration:
+    - '[root [nsubj Спа]– [expl это] удовольствие [nmod [advmod не] [case из] дешёвых].]'
+  comment: |
+      'При глаголе-связке в прошедшем и будущем времени, прилагательное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа. Ср. близкую конструкцию 520.'
+  common_fillers:
+    - лучших
+    - бедных
+    - дешевых
+    - последних
+    - местных
+    - приятных
+    - легких
+    - разговор
+    - момент
+    - вопрос
+    - день
+    - год
+    - удовольствие
+    - занятие
+  references:
+    - |
+      Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+  semantic_types:
+    - type: Assessment
+      subtypes:
+        - type: Assessment in relation to quantification
+          subtypes:
+            - type: None
+    - type: Polarity value
+      subtypes:
+        - type: Both Negative and Positive
+    - type: Salient property
+      subtypes:
+        - type: Belonging to a class
+    - type: Subset
+  family:
+    - |
+      "None"
+291:
+  name: 'рублей NumCrd'
+  UD_name: 'рублей NumCrd'
+  illustration: 'У Маши было рублей сто на книги.'
+  cefr_level: B1
+  definitions:
+  examples:
+  morphology:
+    - NumCrd
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Argument
+  syntactic_structure_of_anchor:
+    - Inversion
+  part_of_speech_of_anchor:
+    - Noun
+  semantic_roles:
+    - ~
+  intonation:
+    - Not applicable
+  usage_label: Colloquial
+  dependency_structure:
+    - '[dep рублей [nummod NumCrd]]'
+  dependency_structure_of_illustration:
+    - '[root [obl [case У] Маши] было [nsubj рублей [nummod:gov сто]] [obl [case на] книги].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Degree of accuracy
+      subtypes:
+        - type: Approximate
+    - type: Measure
+      subtypes:
+        - type: Money
+  family:
+    - |
+      ""
+2329:
+  name: 'NP-Nom Cop не прочь VP-Inf'
+  UD_name: 'NP-Nom Cop не прочь VP-Inf'
+  illustration: 'Я не прочь жениться.'
+  cefr_level: B1
+  definitions:
+  examples:
+  morphology:
+    - NP
+    - Nom
+    - Cop
+    - VP
+    - Inf
+  syntactic_type_of_construction:
+    - Copula Construction
+  syntactic_function_of_anchor:
+    - Praedicative Expression
+  syntactic_structure_of_anchor:
+    - Negation
+  part_of_speech_of_anchor:
+    - Negation Marker
+    - Predicative
+  semantic_roles:
+    - ~
+  intonation:
+    - Declarative
+  usage_label: Colloquial
+  dependency_structure:
+    - '[root [nsubj NP-Nom] [cop Cop] [advmod не] прочь [csubj VP-Inf]]'
+  dependency_structure_of_illustration:
+    - '[root [nsubj Я] [advmod не] прочь [csubj жениться].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Attitude
+      subtypes:
+        - type: Acceptance
+          subtypes:
+            - type: Willingness
+        - type: Acceptance
+          subtypes:
+            - type: Support
+    - type: Polarity value
+      subtypes:
+        - type: Positive
+    - type: Volition
+  family:
+    - |
+      "Willingness, Support"
+757:
+  name: 'NP/VP в духе NP-Gen'
+  UD_name: 'NP/VP в духе NP-Gen'
+  illustration: 'Рассказ в духе Чехова'
+  cefr_level: B1
+  definitions:
+    - russian: |
+         Конструкция выражает сравнение и обозначает сходство [одного участника или объекта]Comparee с [другим]Standard. Свойства участника или объекта во многом характерны тому, что названо в стандарте сравнения. Как правило, в качестве такого стандарта выступает имя собственное (например, имя деятеля искусства или философа; пример 1), направление в искусстве (пример 3), историческая эпоха (пример 4).
+  examples:
+    - |
+         Однажды нахлынувшее впечатление от величия морского пейзажа броскими строками вылилось в [стихотворение]Comparee в духе [А. С. Пушкина]Standard.
+    - |
+         Наш разлад обрастал [сплетнями]Comparee в духе [мексиканских сериалов]Standard.
+    - |
+         [Спектакль]Comparee [был решён]Action в духе [минимализма]Standard: два стула ― вот, собственно, и весь реквизит.
+    - |
+         Последнее время в ходу были совсем [другие лица]Comparee, в духе [предвоенных тридцатых]Standard.
+    - |
+         Сегодня все почему-то ждут [волшебных развязок]Comparee в духе [сказок]Standard, когда всё заканчивается вечным счастьем для всех.
+  morphology:
+    - NP
+    - VP
+    - Gen
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Action
+    - Comparee
+    - Standard
+  intonation:
+    - Not applicable
+  usage_label: ~
+  dependency_structure:
+    - '[dep NP [nmod [case в] духе [nmod NP-Gen]]]'
+    - '[root VP [obl [case в] духе [nmod NP-Gen]]]'
+  dependency_structure_of_illustration:
+    - '[dep Рассказ [nmod [case в] духе [nmod Чехова]]]'
+  comment: |
+      'См. близкую конструкцию 1214 NP/VP в стиле NP-Gen (Истории в стиле Андерсена)'
+  common_fillers:
+    - время
+    - эпоха
+    - традиция
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Comparison
+      subtypes:
+        - type: Similarity
+  family:
+    - |
+      ""
+1879:
+  name: 'скажу вам (даже) больше, Cl'
+  UD_name: 'скажу вам (даже) больше, Cl'
+  illustration: 'Скажу вам больше, он пообещал выступить на конференции.'
+  cefr_level: B1
+  definitions:
+  examples:
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Verb and Object
+  part_of_speech_of_anchor:
+    - Verb
+    - Pronoun
+    - Adverb
+  semantic_roles:
+    - ~
+  intonation:
+    - Declarative
+  usage_label: Colloquial
+  dependency_structure:
+    - '[root скажу [iobj вам] [advmod больше], [parataxis Cl]]'
+    - '[root скажу [iobj вам] [advmod даже] [advmod больше], [parataxis Cl]]'
+  dependency_structure_of_illustration:
+    - '[root Скажу [iobj вам] [advmod больше], [parataxis [nsubj он] пообещал [xcomp выступить [obl [case на] конференции]]].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Discourse structure
+      subtypes:
+        - type: Discourse additive
+  family:
+    - |
+      ""
+1303:
+  name: 'Cl, дабы Cl'
+  UD_name: 'Cl, дабы Cl'
+  illustration: 'В Сибирь приехали учёные люди из Оксфорда, дабы просветить омичей на предмет избавления от мусора.'
+  cefr_level: C2
+  definitions:
+  examples:
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Subordinator
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Conjunction
+  semantic_roles:
+    - ~
+  intonation:
+    - Declarative
+  usage_label: Obsolete
+  dependency_structure:
+    - '[root Cl'
+    - '[advcl [mark дабы] Cl]]'
+  dependency_structure_of_illustration:
+    - '[root [obl [case В] Сибирь] приехали [nsubj [amod учёные] люди [nmod [case из] Оксфорда]], [advcl [mark дабы] просветить [obj омичей] [obl [case на] предмет [nmod избавления [nmod [case от] мусора]]]].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Purpose
+  family:
+    - |
+      ""
+2097:
+  name: 'NP собственной персоной'
+  UD_name: 'NP собственной персоной'
+  illustration: 'К нам приедет министр собственной персоной.'
+  cefr_level: C1
+  definitions:
+  examples:
+  morphology:
+    - NP
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Adjective
+    - Noun
+  semantic_roles:
+    - ~
+  intonation:
+    - Not applicable
+  usage_label: ~
+  dependency_structure:
+    - '[dep NP [nmod [amod собственной] персоной]]'
+  dependency_structure_of_illustration:
+    - '[root [obl [case К] нам] приедет [nsubj министр [nmod [amod собственной] персоной]].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Discourse structure
+      subtypes:
+        - type: Emphasis
+  family:
+    - |
+      ""
+1487:
+  name: 'море NP-Gen'
+  UD_name: 'море NP-Gen'
+  illustration: 'Из окна открывался потрясающий вид – яркая зелень и море цветов.'
+  cefr_level: A2
+  definitions:
+    - russian: |
+         Конструкция обозначает большое количество [объектов]Theme. [Объектами]Theme обычно бывают жидкости, эмоции, абстрактные понятия. Слот может заполняться как исчисляемыми существительными (подарки, люди), так и неисчисляемыми (кровь, радость, информация).
+    - norwegian: |
+         Konstruksjonen betegner et stor mengde [objekter]Theme. [Objektene]Theme er vanligvis flytende væsker, emosjoner og abstrakte begreper. Sloten kan fylles av så vel tellelige substantiver (gaver, mennesker) som av utellelige (blod, glede, informasjon).
+  examples:
+    - |
+         Разве мало вам того моря [крови]Theme, того моря [слёз]Theme, что мы пролили за войну?
+    - |
+         Прошло без малого 45 лет, а комедия Леонида Гайдая всё так же приносит нам море [радости и оптимизма]Theme.
+    - |
+         В сентябре у нас будет проходить суперакция. Море [подарков]Theme от компании «Орифлейм» для всех дам.
+    - |
+         В море [информации]Theme человек нашел именно твою книгу, захотел её прочитать, скачал на свой компьютер.
+    - |
+         Москва ликовала. Красная площадь представляла собой море [людей]Theme, пляшущих, поющих, обнимающихся.
+  morphology:
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Nominal Quantifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Noun
+  semantic_roles:
+    - Theme
+  intonation:
+    - Not applicable
+  usage_label: ~
+  dependency_structure:
+    - '[dep море [nmod NP-Gen]]'
+  dependency_structure_of_illustration:
+    - '[root [obl [case Из] окна] открывался [nsubj [amod потрясающий] вид] – [appos [amod яркая] зелень [conj [cc и] море [nmod цветов]]].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - песок
+  references:
+    - |
+      Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. In: Poljarnyj Vestnik 23. 1–17; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторам. Дисс. канд. филол. наук. Москва.
+  semantic_types:
+    - type: Degree of intensity
+      subtypes:
+        - type: Booster
+    - type: Measure
+      subtypes:
+        - type: Unrestricted domain
+    - type: Quantification
+      subtypes:
+        - type: Existential
+  family:
+    - |
+      "Measure constructions with nominal quantifiers."
+417:
+  name: 'Cl так нет (же), Cl'
+  UD_name: 'Cl так нет (же), Cl'
+  illustration: 'Всё съел, так нет же, ему мало!'
+  cefr_level: B1
+  definitions:
+  examples:
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Negation
+  part_of_speech_of_anchor:
+    - Conjunction
+    - Predicative
+    - Negation Marker
+    - Particle
+  semantic_roles:
+    - ~
+  intonation:
+    - Not applicable
+  usage_label: Colloquial
+  dependency_structure:
+    - '[root Cl, [conj [mark так] нет [advmod же], [parataxis Cl]]!]'
+    - '[root Cl, [conj [mark так] нет, [parataxis Cl]]!]'
+  dependency_structure_of_illustration:
+    - '[root [obj Всё] съел, [conj [mark так] нет [advmod же], [parataxis [iobj ему] мало]]!]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Degree of intensity
+      subtypes:
+        - type: Maximizer
+  family:
+    - |
+      ""
+256:
+  name: 'NP-Nom какой Cop'
+  UD_name: 'NP-Nom какой Cop'
+  illustration: 'Посмотрите, ужас какой!'
+  cefr_level: A2
+  definitions:
+    - russian: |
+         Конструкция используется для интенсификации [оценочной характеристики]Evaluation объекта, участника или ситуации в целом. Слот NP-Nom заполняется оценочными существительными, которые несут отрицательную или положительную оценку.
+    - english: |
+         This construction is used to intensify an [evaluative characteristic]Evaluation of an object, a participant or a situation on the whole. The evaluative nouns that fill the slot NP-Nom can carry either negative or positive polarity value.
+  examples:
+    - |
+         ― Андрей Алексеевич! Господи… [кошмар]Evaluation какой… ― Что такое? - спрашиваю.
+    - |
+         ― И как же вы их разбираете? ― По алфавиту. ― [Чушь]Evaluation какая! ― возмутился Трубинский. ― Кому это нужно?
+    - |
+         Кира Петровна! Вы только послушайте, [счастье]Evaluation какое! Квартиру дали Зинаиде моей!
+    - |
+         [Красота]Evaluation какая! ― говорил он и широко улыбался.
+    - |
+         Себя не жалко ― так о матерях своих подумайте. Матерям-то [горе]Evaluation какое будет!..
+  morphology:
+    - NP
+    - Nom
+    - Cop
+  syntactic_type_of_construction:
+    - Copula Construction
+  syntactic_function_of_anchor:
+    - Verb Predicate
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Pronoun
+  semantic_roles:
+    - Evaluation
+  intonation:
+    - Exclamatory
+  usage_label: Colloquial
+  dependency_structure:
+    - '[root NP-Nom [det какой] [cop Cop]]'
+  dependency_structure_of_illustration:
+    - '[root Посмотрите, [parataxis ужас] [det какой]!]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ужас
+    - кошмар
+    - чушь
+    - глупости
+    - чепуха
+    - беда
+    - досада
+    - хулиган
+    - красота
+    - счастье
+    - радость
+    - молодцы
+    - был
+    - была
+    - было
+    - были
+    - будет
+    - будут
+  references:
+    - |
+      Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+  semantic_types:
+    - type: Assessment
+      subtypes:
+        - type: Assessment in relation to quantification
+          subtypes:
+            - type: Expressions of surprisal
+    - type: Degree of intensity
+      subtypes:
+        - type: Booster
+    - type: Polarity value
+      subtypes:
+        - type: Both Negative and Positive
+  family:
+    - |
+      "Expressions of surprisal"
+948:
+  name: 'да что/чего Cop VP-Inf!'
+  UD_name: 'да что/чего Cop VP-Inf!'
+  illustration: 'Да чего его спрашивать!'
+  cefr_level: C1
+  definitions:
+    - russian: |
+         Конструкция выражает нежелание [участника]Participant выполнять некоторое [действие]Action. Подразумевается, что участник считает это действие нецелесообразным, ненужным.
+    - norwegian: |
+         Konstruksjonen uttrykker [deltakerens]Participant motvilje mot å utføre en gitt [handling]Action. Det er underforstått at deltakeren mener handlingen er uhensiktsmessig og unødvendig.
+  examples:
+    - |
+         В общем, красавица, подумай. ― Да что тут [думать]Action? ― пожала [она]Participant  плечами.
+    - |
+         Да чего [объяснять]Action, если человек не понимает!
+    - |
+         Однажды Клавдия Петровна явилась к Данилову с претензией ― как это он не пригласил ее в Клуб медиков. ― Да что было [приглашать]Action? ― удивился [Данилов]Participant с некоей долей притворства. ― Нет, ― сказала Клавдия, ― я на тебя в обиде, о вашем концерте говорят, а я на нем не была…
+    - |
+         Сами посудите. Это и физически невозможно, и… да что [говорить]Action! А раз невозможно ― тогда вот… пожалуйте бриться.
+    - |
+         Да чего ж тут [сомневаться]Action.
+  morphology:
+    - Cop
+    - VP
+    - Inf
+  syntactic_type_of_construction:
+    - Copula Construction
+  syntactic_function_of_anchor:
+    - Discourse Particle
+    - Praedicative Expression
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Particle
+    - Pronoun
+  semantic_roles:
+    - Action
+    - Participant
+  intonation:
+    - Interrogative
+    - Exclamatory
+  usage_label: Colloquial
+  dependency_structure:
+    - '[root [cc да] [advmod что] [cop Cop] VP-Inf!]'
+    - '[root [cc да] [advmod чего] [cop Cop] VP-Inf!]'
+  dependency_structure_of_illustration:
+    - '[root [cc Да] [advmod чего] [obj его] спрашивать!]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - вспоминать
+    - говорить
+    - скрывать
+    - мелочиться
+    - думать
+    - годить
+    - сомневаться
+  references:
+    - |
+      Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+  semantic_types:
+    - type: Attitude
+      subtypes:
+        - type: Acceptance
+          subtypes:
+            - type: Willingness
+        - type: Acceptance
+          subtypes:
+            - type: Concern
+    - type: Polarity value
+      subtypes:
+        - type: Negative
+    - type: Reaction to the previous discourse
+      subtypes:
+        - type: Doubt
+  family:
+    - |
+      "Willingness; Concern"
+498:
+  name: 'NP-Ins NP-Nom Cop в NP-Acc'
+  UD_name: 'NP-Ins NP-Nom Cop в NP-Acc'
+  illustration: 'Лицом она в мать.'
+  cefr_level: B2
+  definitions:
+    - russian: |
+         Конструкция обозначает, что [участник]Comparee [внешностью или характером]Parameter похож на кого-либо из своих [родственников]Standard.
+  examples:
+    - |
+         [Старший]Comparee [характером]Parameter в [мать]Standard, [младший]Comparee ― в [отца]Standard.
+    - |
+         [Худым своим плечом]Parameter [он]Comparee сразу и в [отца]Standard, и [мать]Standard.
+    - |
+         [Характером]Parameter [он]Comparee весь в [отца]Standard, такой же упрямый.
+    - |
+         Всю жизнь все считали, что [я]Comparee [фигурой]Parameter в [бабушку]Standard: маленькая ростом.
+    - |
+         [Ростом]Parameter [я]Comparee пошел в [папу]Standard, а [глазами]Parameter в [маму.]Standard
+  morphology:
+    - NP
+    - Ins
+    - Nom
+    - Cop
+    - Acc
+  syntactic_type_of_construction:
+    - Copula Construction
+  syntactic_function_of_anchor:
+    - Praedicative Expression
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Preposition
+  semantic_roles:
+    - Comparee
+    - Parameter
+    - Standard
+  intonation:
+    - Declarative
+  usage_label: ~
+  dependency_structure:
+    - '[root [obl NP-Ins] [nsubj NP-Nom] [cop Cop] [case в] NP-Acc]'
+  dependency_structure_of_illustration:
+    - '[root [obl Лицом] [nsubj она] [case в] мать.]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - лицо
+    - характер
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Comparison
+      subtypes:
+        - type: Similarity
+  family:
+    - |
+      ""
+1826:
+  name: 'NP-Nom раз-Verb NP-Acc.Pl'
+  UD_name: 'NP-Nom раз-V NP-Acc.Plur'
+  illustration: 'Официант разнёс по столам подносы.'
+  cefr_level: C1
+  definitions:
+  examples:
+  morphology:
+    - NP
+    - Nom
+    - Verb
+    - Acc
+    - Pl
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Word-Formation
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Not Applicable
+  semantic_roles:
+    - ~
+  intonation:
+    - Declarative
+  usage_label: ~
+  dependency_structure:
+    - '[root [nsubj NP-Nom] раз-Verb [obj NP-Acc.Pl]]'
+  dependency_structure_of_illustration:
+    - '[root [nsubj Официант] разнёс [obl [case по] столам] [obj подносы].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Actionality
+      subtypes:
+        - type: Distributive
+  family:
+    - |
+      ""
+1842:
+  name: 'Взять/возьми(те) хотя бы/хоть NP-Acc, Cl'
+  UD_name: 'Взять/возьми(те) хотя бы/хоть NP-Acc, Cl'
+  illustration: 'Все работали хорошо. Взять хотя бы Ивана, он внимательно проработал все детали.'
+  cefr_level: C1
+  definitions:
+    - russian: |
+         Конструкция вводит пояснение некоторого общего утверждения с помощью конкретного частного примера. В качестве примера сначала называется [элемент ситуации]Theme, а потом раскрывается [мысль, почему он служит хорошим примером]Situation. Как если бы говорящий давал собеседнику в руки, но не предмет, а элемент ситуации.
+    - norwegian: |
+         Konstruksjonen gjør en generell påstand klarere ved å innføre et konkret, spesifikt eksempel. Som eksempel nevnes først et [element av en situasjon]Theme, og deretter åpenbares [tanken om hvorfor dette er et godt eksempel]Situation. Det er som om taleren gir samtalepartneren noe i hendene, bare at det ikke er en gjenstand, men et element av en situasjon.
+  examples:
+    - |
+         Науки в снеге много. Взять хоть [снежинку]Theme. [Там дико сложная кристаллография]Situation. Считается, что количество возможных форм снежинок сопоставимо с числом атомов во всей Вселенной.
+    - |
+         Человеческая жизнь нелепа, суетна и загадочна. Взять хоть [меня]Theme. [Закончил журфак, а зарабатываю на жизнь жуками]Situation.
+    - |
+         Портрет, ничего не скажешь, правильный. Возьми хоть [глаза]Theme ― [острые, так и сверлят, голубенькие]Situation.
+    - |
+         Ведь, если вы думаете, что есть у нас млекопитающих единственный путь: родиться, стать подростком, быстренько перескочить через юность, пробежать через молодость ― и дальше только дряхлеть ― вы сильно ошибаетесь! Возьмите, хотя бы [китов]Theme! [Киты живут около двухсот лет, и всё это время крепчают здоровьем и к старости рожают всё больше детей]Situation.
+    - |
+         Когда такой тип сознания воплощается в отдельной личности, человек начинает воспринимать свое детство как некий потерянный рай. Возьмите хотя бы [Набокова]Theme. [Эта его бесконечная рефлексия по поводу первых лет жизни]Situation ― классический пример того, о чем я говорю.
+  morphology:
+    - NP
+    - Acc
+    - Cl
+  syntactic_type_of_construction:
+    - Biclausal Construction
+  syntactic_function_of_anchor:
+    - Verb Predicate
+    - Discourse Particle
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Verb
+    - Particle
+  semantic_roles:
+    - Theme
+    - Situation
+  intonation:
+    - Declarative
+  usage_label: Colloquial
+  dependency_structure:
+    - '[root взять [advmod хотя [fixed бы]] [obj NP-Acc], [parataxis Cl]]'
+    - '[root возьми [advmod хотя [fixed бы]] [obj NP-Acc], [parataxis Cl]]'
+    - '[root взять [advmod хоть] [obj NP-Acc], [parataxis Cl]]'
+    - '[root возьми [advmod хоть] [obj NP-Acc], [parataxis Cl]]'
+  dependency_structure_of_illustration:
+    - '[root [nsubj Все] работали [advmod хорошо].] [root Взять [advmod хотя [fixed бы]] [obj Ивана], [parataxis [nsubj он] [advmod внимательно] проработал [obj [det все] детали]].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Discourse structure
+      subtypes:
+        - type: Exemplification
+  family:
+    - |
+      "Illustration with an example"
+2084:
+  name: 'без NumCrd-Gen (минут) NumCrd-Nom'
+  UD_name: 'без NumCrd-Gen (минут) NumCrd-Nom'
+  illustration: 'Приходи к без пятнадцати десять.'
+  cefr_level: B1
+  definitions:
+  examples:
+  morphology:
+    - NumCrd
+    - Gen
+    - Nom
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - ~
+  intonation:
+    - Not applicable
+  usage_label: ~
+  dependency_structure:
+    - '[root [nmod [case без] NumCrd-Gen] NumCrd-Nom]]'
+    - '[root [nmod [case без] [nummod NumCrd-Gen] минут] NumCrd-Nom]]'
+  dependency_structure_of_illustration:
+    - '[root Приходи [obl [case к] [nmod [case без] пятнадцати] десять].]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Temporal expression
+      subtypes:
+        - type: Clock
+  family:
+    - |
+      ""
+75:
+  name: 'время NP-Gen прошло'
+  UD_name: 'время NP-Gen прошло'
+  illustration: 'Время сомнений прошло.'
+  cefr_level: B1
+  definitions:
+    - russian: |
+         Конструкция обозначает завершение целого этапа глобального развития культуры, общества или природы. Некоторая [ситуация]Situation закончилась, ушла в прошлое или перестала быть актуальной. Слова, которые заполняют слот NP-Gen, обычно называют [абстрактные понятия]Theme («сомнения», «теория»), [группы людей]Set («дилетанты») или [имена]Name знаковых деятелей (писателей, композиторов, правителей), которые играли ключевую роль на этом этапе. Как если бы каждый этап развития или участник имели «свое», предназначенное специально для них время и владели этим временем, как объектом.
+  examples:
+    - |
+         Время [дилетантов]Set прошло, для восстановления монастыря мне нужны профессионалы».
+    - |
+         Перед началом репетиций он произнес речь: «Время [статистов]Set прошло. Помните, что вы вовсе не статисты. Вы артисты.
+    - |
+         Время [уговоров]Action прошло, насилие должно быть остановлено силой.
+    - |
+         Фразы не должны быть короткими, время [Хемингуэя]Name прошло давно, желательно чтобы фраза занимала целый абзац.
+    - |
+         Первый ребёнок в семье ― огромная радость и одновременно первое серьёзное испытание для молодых родителей. Время ["черновиков"]Theme прошло, с рождением ребёнка жизнь приходится писать "набело".
+  morphology:
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Subject
+    - Verb Predicate
+  syntactic_structure_of_anchor:
+    - Subject and Predicate
+  part_of_speech_of_anchor:
+    - Noun
+    - Verb
+  semantic_roles:
+    - Theme
+    - Action
+    - Name
+    - Set
+    - Situation
+  intonation:
+    - Declarative
+  usage_label: ~
+  dependency_structure:
+    - '[root [nsubj время [nmod NP-Gen]] прошло]'
+  dependency_structure_of_illustration:
+    - '[root [nsubj Время [nmod сомнений]] прошло.]'
+  comment: |
+      'См. близкую конструкцию 74.'
+  common_fillers:
+    - солистов
+    - сомнений
+    - одиночек
+    - теории
+    - Хемингуэя
+    - империй
+    - аллегорий
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Phase of action
+      subtypes:
+        - type: Terminative
+  family:
+    - |
+      ""
+2313:
+  name: 'Пусть (даже) так, но Cl'
+  UD_name: 'Пусть (даже) так, но Cl'
+  illustration: 'Пусть даже так, но неужели тебе её не жалко?'
+  cefr_level: C1
+  definitions:
+  examples:
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Biclausal Construction
+  syntactic_function_of_anchor:
+    - Discourse Particle
+    - Praedicative Expression
+    - Coordinator
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Particle
+    - Adverb
+    - Pronoun
+    - Conjunction
+  semantic_roles:
+    - ~
+  intonation:
+    - Declarative
+  usage_label: Colloquial
+  dependency_structure:
+    - '[root [advcl [mark пусть] [advmod даже] так], [cc но] Cl]'
+    - '[root [advcl [mark пусть] так], [cc но] Cl]'
+  dependency_structure_of_illustration:
+    - '[root [advcl [mark Пусть] [advmod даже] так], [cc но] [advmod неужели] [iobj тебе] [obj её] [advmod не] жалко?]'
+  comment: |
+      'No comment yet'
+  common_fillers:
+    - ~
+  references:
+    - |
+      No references
+  semantic_types:
+    - type: Concession
+      subtypes:
+        - type: Imitative agreement
+  family:
+    - |
+      ""
