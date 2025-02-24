@@ -48,6 +48,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X in appearance / Y looks X
   - norwegian: |
        X ser ut som Y / tilsynelatende X Y, f.eks. Umoral, materialisme og likegyldighet som har fulgt med en tilsynelatende lettere tid, har knekt noen.
 common_fillers:

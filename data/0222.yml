@@ -50,6 +50,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       Why not X, Y
   - norwegian: |
        NA
 common_fillers:

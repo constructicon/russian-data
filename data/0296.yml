@@ -44,6 +44,8 @@ dependency_structure_of_illustration:
 comment: |
     'В случаях, когда слот Cl отсуствует (А ты его видел, это кольцо? –  Само собой, она показала), конструкция функционирует как дискурсивная формула. См. подробнее базу дискурсивных формул "Прагматикон" https://pragmaticon.ruscorpora.ru/exp/289'
 equivalents:
+  - english: |
+       Needless to say, X / Of course, X
   - norwegian: |
        åpenbart...
 common_fillers:

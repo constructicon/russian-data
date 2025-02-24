@@ -38,6 +38,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X in his/her Y, e. g. a man in his fifties / X of about Y years old
   - norwegian: |
        X omtrent Y år gammel / X cirka Y år gammel / X omkring Y år gammel
 common_fillers:

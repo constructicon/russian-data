@@ -42,6 +42,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкие конструкции 354 и 2149.'
 equivalents:
+  - english: |
+       are about to X
   - norwegian: |
        hvert øyeblikk / X ser ut til å Y / det ser ut til at ...
 common_fillers:

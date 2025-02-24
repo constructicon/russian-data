@@ -39,6 +39,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       that's why X Y, e. g. that's why I came
   - norwegian: |
        så X Y, f. eks. Så jeg kom
 common_fillers:

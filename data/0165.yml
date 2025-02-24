@@ -48,6 +48,8 @@ dependency_structure_of_illustration:
 comment: |
     'см. конструкцию какой / какое (там) VP-Past! – Какой там поел! и конструкцию какой / какое (там) Adv/Adj! – Какое там быстро!'
 equivalents:
+  - english: |
+       let alone X / What is there to X?
   - norwegian: |
        X kommer ikke på tale! / Det kommer ikke på tale at ...
 common_fillers:

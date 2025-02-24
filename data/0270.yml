@@ -45,6 +45,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       (a little) X-Cmp
   - norwegian: |
        litt X-Cmp
 common_fillers:

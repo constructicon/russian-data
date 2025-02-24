@@ -44,6 +44,8 @@ dependency_structure_of_illustration:
 comment: |
     'Ср. близкую конструкцию 148.'
 equivalents:
+  - english: |
+       X suddenly Y
   - norwegian: |
        X gjør Y plutselig
 common_fillers:

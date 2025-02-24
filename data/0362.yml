@@ -44,6 +44,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       Whatever X Y, Z, e. g. Whatever he said, don't believe him.
   - norwegian: |
        uansett hva ... / hva som enn X ...
 common_fillers:

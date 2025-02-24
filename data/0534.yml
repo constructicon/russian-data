@@ -49,6 +49,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X is (un)able to Y / X has the power to Y / X can(not) Y
   - norwegian: |
        kan få seg til å X / å orke å X / å ha hjerte til å X / å være i stand til å X / å være ute av stand til å X / X har styrke til Y / X kan Y
 common_fillers:

@@ -61,6 +61,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 382 чтобы (никакой-Gen) NP-Gen PP/Adv (не было)! (Чтобы животных здесь не было!).'
 equivalents:
+  - english: |
+       Don't (ever) let X Y! / X doesn't (ever) want to Y!
   - norwegian: |
        å få X fra å Y
 common_fillers:

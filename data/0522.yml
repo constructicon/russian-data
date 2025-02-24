@@ -45,6 +45,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X carries weight in Y
   - norwegian: |
        X har stor innflytelse i Y / X nyter stor respekt i / X betyr noe
 common_fillers:

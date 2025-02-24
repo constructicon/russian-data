@@ -49,6 +49,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       near X / outside X
   - norwegian: |
        i nærheten av X / ved X / nær X
 common_fillers:

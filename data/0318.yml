@@ -41,6 +41,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       I (just) want to X / I could X
   - norwegian: |
        X skulle Y / X ville Y
 common_fillers:

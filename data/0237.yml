@@ -43,6 +43,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       never X
   - norwegian: |
        aldri, f.eks. En kunstner slutter aldri å arbeide.
 common_fillers:

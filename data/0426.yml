@@ -47,6 +47,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. похожую конструкцию 629 VP как надо (Отец готовил яичницу как надо).'
 equivalents:
+  - english: |
+       X as is customary / X properly / X as expected
   - norwegian: |
        ... som seg hør og bør
 common_fillers:

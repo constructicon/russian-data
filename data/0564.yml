@@ -43,6 +43,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       all X does is Y / X does nothing but Y
   - norwegian: |
        X bare Y, f.eks. Han bare spiser og sover. / Det eneste X gjør, er Y
 common_fillers:

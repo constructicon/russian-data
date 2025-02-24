@@ -47,6 +47,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X after Y (animate) / X in honor of Y (inanimate)
   - norwegian: |
        til ære for...
 common_fillers:

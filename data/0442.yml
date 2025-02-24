@@ -37,6 +37,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X Y, e. g. polka-dot circle skirt / X-ed Y, e. g. striped skirt
   - norwegian: |
        Xet, f.eks. pekket, stripet, rupet
 common_fillers:

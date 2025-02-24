@@ -45,6 +45,8 @@ dependency_structure_of_illustration:
 comment: |
     'После союза «как» в конструкции не употребляются клаузы с причастиями и деепричастиями, что отличает ее от синонимичных конструкций 1171 XP/Cl словно XP/Cl (Мальчик пел словно соловей), 1172 XP/Cl будто XP/Cl (Она была красивая будто богиня) и 1173 XP/Cl точно XP/Cl (Хрупкий точно из стекла).'
 equivalents:
+  - english: |
+       X like Y
   - norwegian: |
        X som Y
 common_fillers:

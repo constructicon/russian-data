@@ -53,6 +53,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. похожие конструкции 244, 1450, 2343.'
 equivalents:
+  - english: |
+       X is no Y than Z
   - norwegian: |
        X er ikke Y enn Z / X er ikke noen Y enn Z / X er like X som Y
 common_fillers:

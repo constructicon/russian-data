@@ -44,6 +44,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       sort of X / a kind of X / somewhat of a X
   - norwegian: |
        en slags
 common_fillers:

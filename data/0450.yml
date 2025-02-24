@@ -42,6 +42,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X deals with Y / X does business with Y
   - norwegian: |
        å ha med X noe å gjøre / X handler med Y / X behandler Y
 common_fillers:

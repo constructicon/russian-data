@@ -46,6 +46,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X the size of Y / X as big as Y
   - norwegian: |
        X på størrelse med Y / X så stort om Y
 common_fillers:

@@ -41,6 +41,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X is busy with Y
   - norwegian: |
        X er på Y, f.eks. Han er på hjemmelekser nå.
 common_fillers:

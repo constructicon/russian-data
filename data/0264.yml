@@ -47,6 +47,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. похожие конструкции 11 (как) по мне, (так) Cl (Как по мне, это ещё не беда); 1137 на PronPoss-Acc взгляд, Cl (На мой взгляд, это не искусство).'
 equivalents:
+  - english: |
+       according to X / in the opinion of X
   - norwegian: |
        X mener, ... / X tror, ... / etter X mening, ...
 common_fillers:

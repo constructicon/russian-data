@@ -42,6 +42,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       indeed X / really X
   - norwegian: |
        å X virkelig
 common_fillers:

@@ -42,6 +42,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X (at least) for the sake of Y
   - norwegian: |
        å X (i det minste) for Y
 common_fillers:

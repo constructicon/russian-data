@@ -39,6 +39,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       in time, X / with time, X / over time, X
   - norwegian: |
        med tiden
 common_fillers:

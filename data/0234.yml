@@ -44,6 +44,8 @@ dependency_structure_of_illustration:
 comment: |
     'Не путать с конструкцией 233.'
 equivalents:
+  - english: |
+       X did Y, didn't X? / X must be Y-ing
   - norwegian: |
        X gjør Y, ikke sant? / Det later til at ... / Det ser ut til at ...
 common_fillers:

@@ -46,6 +46,8 @@ dependency_structure_of_illustration:
 comment: |
     'В лингвистической литературе инфинитив в данной конструкции называется "целевой инфинитив" (Infinitive of purpose). См. близкую по значению конструкцию 557.'
 equivalents:
+  - english: |
+       X to Y, e. g. go out to smoke
   - norwegian: |
        å X for å Y
 common_fillers:

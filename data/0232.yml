@@ -43,6 +43,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       can't X anywhere
   - norwegian: |
        Det finnes ikke noe sted som X
 common_fillers:

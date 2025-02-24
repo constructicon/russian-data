@@ -50,6 +50,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкие конструкции 1304, 1305, 2157.'
 equivalents:
+  - english: |
+       If only X Y, e. g. If only I knew what I know today
   - norwegian: |
        Jeg vil bare X / Jeg trenger bare X
 common_fillers:

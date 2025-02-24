@@ -42,6 +42,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X in order to Y / X so that Y
   - norwegian: |
        ..., for å X
 common_fillers:

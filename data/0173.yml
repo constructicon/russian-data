@@ -48,6 +48,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X is no Y / X is no match for Y
   - norwegian: |
        X kan ikke hamle opp med Y
 common_fillers:

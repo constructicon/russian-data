@@ -50,6 +50,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкие по значению конструкции NP-Dat не подобает VP-Inf (Не подобает московскому царю кланяться польскому королю), (NP-Dat) не стоит VP-Inf (не стоит разговаривать с ним), (NP-Dat) не нужно/надо VP-Inf (не нужно опекать детей до безрассудства), (NP-Dat) не следует VP-Inf (не следует расслабляться при отсутствии полицейских на дороге).'
 equivalents:
+  - english: |
+       X shouldn't Y
   - norwegian: |
        X burde ikke Y
 common_fillers:

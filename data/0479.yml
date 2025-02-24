@@ -50,6 +50,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X can't deal with Y / X doesn't have time to Y
   - norwegian: |
        X har ikke tid til Y
 common_fillers:

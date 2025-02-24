@@ -45,6 +45,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкие конструкции 346, 1992, 1996.'
 equivalents:
+  - english: |
+       There are rumors of/about X
   - norwegian: |
        det går et rykte om...
 common_fillers:

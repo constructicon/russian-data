@@ -40,6 +40,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X can't fool/trick Y
   - norwegian: |
        X lar seg ikke lure
 common_fillers:

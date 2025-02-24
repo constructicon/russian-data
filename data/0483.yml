@@ -53,6 +53,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкие по значению конструкции 21 (NP-Dat) нельзя Cop не VP-Inf (Нельзя было не согласиться с ним тогда) и 198 NP-Nom не мочь не VP-Inf (Не могу не согласиться).'
 equivalents:
+  - english: |
+       there's nothing left for X to do but Y
   - norwegian: |
        X er nødt å Y / X må bare Y
 common_fillers:

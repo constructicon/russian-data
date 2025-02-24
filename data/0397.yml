@@ -46,6 +46,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X wishes Y a Happy Z / Happy Z!
   - norwegian: |
        å gratulere med X / å ønske X, f.eks. å ønske godt nytt år
 common_fillers:

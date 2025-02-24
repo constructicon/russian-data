@@ -37,6 +37,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X roubles can buy Y / X for Y roubles
   - norwegian: |
        X for NumCrd rubler
 common_fillers:

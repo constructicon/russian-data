@@ -42,6 +42,8 @@ dependency_structure_of_illustration:
 comment: |
     'Не путать с 569. Конструкция чаще употребляется в варианте "чуть ли не", чем "чуть не".'
 equivalents:
+  - english: |
+       almost X / nearly X
   - norwegian: |
        nesten/mer eller mindre
 common_fillers:

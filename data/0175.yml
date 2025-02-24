@@ -58,6 +58,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 2146 добро бы Cl, но Cl/а то Cl/так нет, Cl! (Добро бы говорил сам, но он все время пытался втянуть и Андрея в разговор!)'
 equivalents:
+  - english: |
+       It would be fine/great/okay/nice if X, but Y / I could understand if X but Y
   - norwegian: |
        ikke nok med X, men ... / ikke nok med at ..., ...
 common_fillers:

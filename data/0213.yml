@@ -45,6 +45,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкие конструкции 1157 ни черта́ не VP, 1158 ни шагу не VP, 1159 ни крошки не VP, 1160 ни глотка не VP, 1161 ни копейки/гроша не VP, 2346 ни минуты/секунды не VP, 1777 ни слова не VP, 2345 ни капли не VP; 229 (у NP-Gen) ни капли NP-Gen нет'
 equivalents:
+  - english: |
+       not a single X
   - norwegian: |
        ikke en eneste X / ikke en X / ingen X
 common_fillers:

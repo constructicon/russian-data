@@ -37,6 +37,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X without Y-ing
   - norwegian: |
        ... uten at...
 common_fillers:

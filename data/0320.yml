@@ -39,6 +39,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       so-called X
   - norwegian: |
        såkalt X
 common_fillers:

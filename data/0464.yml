@@ -45,6 +45,8 @@ dependency_structure_of_illustration:
 comment: |
     'Не путать с конструкцией 962.'
 equivalents:
+  - english: |
+       X after X
   - norwegian: |
        X etter X, f.eks. å sende brev etter brev
 common_fillers:

@@ -44,6 +44,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 328.'
 equivalents:
+  - english: |
+       neither X nor Y (e. g. Your tsaritsa, sire, last night Was delivered of a fright– Neither son nor daughter, nor Have we seen its like before.) / not exactly X, not exactly Y
   - norwegian: |
        kanskje X, kanskje Y
 common_fillers:

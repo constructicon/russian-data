@@ -47,6 +47,8 @@ dependency_structure_of_illustration:
 comment: |
     'При глаголе-связке в прошедшем и будущем времени, прилагательное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа. Прилагательное может стоять в полной или краткой форме.'
 equivalents:
+  - english: |
+       X is ridiculously/absurdly/pathetically Y
   - norwegian: |
        latterlig X
 common_fillers:

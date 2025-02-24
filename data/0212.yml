@@ -43,6 +43,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       not just (another) X / not some X
   - norwegian: |
        X er ingen Y!
 common_fillers:

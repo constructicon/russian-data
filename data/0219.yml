@@ -38,6 +38,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X is responsible for Y / X is held responsible for Y / X bears responsibility for Y
   - norwegian: |
        å ha ansvaret for X / å stå til ansvar for X / X holder ansvar for Y
 common_fillers:

@@ -50,6 +50,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. похожие конструкции 2011, 1063, 1623, 1624.'
 equivalents:
+  - english: |
+       Once X Y, Z, e. g. Once he set foot on board a ship, however, he underwent an amazing transformation.
   - norwegian: |
        X bare Y, og Z / ikke før hadde X Y før
 common_fillers:

@@ -47,6 +47,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X due to Y / X regarding Y / X in relation to Y
   - norwegian: |
        i forbindelse med X
 common_fillers:

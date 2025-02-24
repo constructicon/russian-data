@@ -34,6 +34,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       about X roubles
   - norwegian: |
        omtrent X rubler / omkring X rubler / cirka X rubler
 common_fillers:

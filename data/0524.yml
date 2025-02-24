@@ -5,17 +5,21 @@ UD_name: '(это Cop) N-Nom как N-Nom'
 illustration: 'Хлеб как хлеб.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Participant или [объект]Theme воспринимается как [типичный представитель]Standard своего класса и не обладает особыми свойствами, не характерными для представителей этого класса.
+  - english: |
+       This construction indicates that a certain [participant]Participant or [object]Theme is perceived as a [typical representative]Standard of its class and does not possess any special properties uncharacteristic of members of that class.
 examples:
   - |
-       [Вода]Theme как вода, холодная.
+       [Вода]Theme как [вода]Standard, холодная.
   - |
-       Ну что ж, с виду [дом]Theme как дом ― шесть этажей.
+       Ну что ж, с виду [дом]Theme как [дом]Standard ― шесть этажей.
   - |
-       [Кошка]Theme как кошка: мышей ловит, молоко лакает.
+       [Кошка]Participant как [кошка]Standard: мышей ловит, молоко лакает.
   - |
-       [Собака]Theme как собака, большая только.
+       [Собака]Participant как [собака]Standard, большая только.
   - |
-       [Машина]Theme как машина ― с четырьмя колесами и двигателем.
+       [Машина]Theme как [машина]Standard ― с четырьмя колесами и двигателем.
 morphology:
   - Cop
   - Noun

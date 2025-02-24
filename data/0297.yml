@@ -41,6 +41,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X's Y-st Z, e. g. the world's oldest bank / the Yst Z in the X
   - norwegian: |
        den mest X Y i Z, f.eks. Det er det mest berømte stedet i byen. / den X-ste Y i Z
 common_fillers:

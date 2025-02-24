@@ -52,6 +52,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 365.'
 equivalents:
+  - english: |
+       as for X, Y
   - norwegian: |
        det som gjelder X, ...
 common_fillers:

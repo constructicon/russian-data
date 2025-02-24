@@ -41,6 +41,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 208.'
 equivalents:
+  - english: |
+       (whether) X or Y / either X or Y
   - norwegian: |
        snart X, snart Y / X og Y om hverandre
 common_fillers:

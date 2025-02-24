@@ -44,6 +44,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию дико XP'
 equivalents:
+  - english: |
+       terribly X / awfully X
   - norwegian: |
        forferdelig
 common_fillers:

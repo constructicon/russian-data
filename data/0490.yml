@@ -41,6 +41,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X can't break Y / X won't break Y
   - norwegian: |
        X kan ikke moralsk slå Y
 common_fillers:

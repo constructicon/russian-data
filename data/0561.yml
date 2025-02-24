@@ -40,6 +40,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X does Y, e. g. if he does choose to press the assault
   - norwegian: |
        likevel
 common_fillers:

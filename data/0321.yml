@@ -43,6 +43,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       As if X would Y / Like X would Y
   - norwegian: |
        X Y ikke
 common_fillers:

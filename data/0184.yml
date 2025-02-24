@@ -43,6 +43,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X could have Y / X might have Y
   - norwegian: |
        X kunne jo gjøre Y
 common_fillers:

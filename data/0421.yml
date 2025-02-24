@@ -45,6 +45,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X, or Y will have to deal with Z
   - norwegian: |
        ..., skal du ta det via X
 common_fillers:

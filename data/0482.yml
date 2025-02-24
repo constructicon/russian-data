@@ -44,6 +44,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X doesn't care about Y
   - norwegian: |
        X ønsker ikke å ha noe å gjøre med Y
 common_fillers:

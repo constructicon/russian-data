@@ -41,6 +41,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X burst into Y
   - norwegian: |
        X brister i Y / X bryter ut i Y
 common_fillers:

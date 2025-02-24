@@ -52,6 +52,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. синонимичные конструкции 203 не столь(ко) XP, сколь(ко) XP (Травмы оказались не столько тяжёлыми, сколько сложными.), 1197 не совсем XP, (а) скорее XP (Не совсем друг, скорее, приятель.), 1198 не прямо XP, а/но XP (Стоял не прямо перед зеркалом, а чуть в стороне.)'
 equivalents:
+  - english: |
+       Not that X, (but) Y
   - norwegian: |
        Ikke at X, men Y
 common_fillers:

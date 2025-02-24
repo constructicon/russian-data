@@ -47,6 +47,8 @@ dependency_structure_of_illustration:
 comment: |
     'Конструкция часто сопровождается словами "вдруг", "без видимых причин" и используется вместе с конструкцией 57 NP-Nom взять и VP-Pfv (Он взял и увез меня в деревню).'
 equivalents:
+  - english: |
+       out of nowhere X / all of a sudden X / out of the blue X
   - norwegian: |
        plutselig
 common_fillers:

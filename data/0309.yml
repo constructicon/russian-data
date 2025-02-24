@@ -48,6 +48,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       Mind X / Be careful, don't X / Don't X
   - norwegian: |
        ikke gjør X
 common_fillers:

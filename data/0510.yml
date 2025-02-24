@@ -43,6 +43,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X is willing to Y
   - norwegian: |
        X er villig til å Y
 common_fillers:

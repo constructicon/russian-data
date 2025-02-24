@@ -50,6 +50,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X Y per Z, e. g. two dollars per pack / X Y a Z, e. g. two dollars a slice
   - norwegian: |
        Num X per Y, f.eks. to kroner per kilo
 common_fillers:

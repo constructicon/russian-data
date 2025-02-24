@@ -39,6 +39,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       nothing, e. g. He ate nothing / anything, e. g. He didn't eat anything.
   - norwegian: |
        ingenting, f.eks. Jeg spiser ingenting. / ikke noe, f.eks. Hun vet ikke noe.
 common_fillers:

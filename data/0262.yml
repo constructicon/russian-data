@@ -47,6 +47,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X renamed Y to Z, e. g. When they decided to rename the movie to Pacific Air Flight 121... / Y is renamed Y, e. g. In 1966 the capital city was renamed Kinshasa. / Y is renmed as Z, e. g. It probably should be renamed as the "Music Hall of Fame".
   - norwegian: |
        X endre Ys navn til Z / X gitt Y nytt navn / X endret navn på Y
 common_fillers:

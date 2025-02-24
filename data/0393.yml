@@ -48,6 +48,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкие конструкции 1162 Adv-Cmp всего VP (Эти бусы подходят к платью лучше всего) и 1488 Adv-Cmp/Adj-Cmp (всех) остальных (Она прибежала к финишу быстрее остальных)'
 equivalents:
+  - english: |
+       X-er than anyone
   - norwegian: |
        mest Y / Y-st, f.eks. Hvem løper fortest?
 common_fillers:

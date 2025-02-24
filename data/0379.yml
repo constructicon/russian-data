@@ -44,6 +44,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       I wish X was Y!
   - norwegian: |
        pokker ta X! / fanden ta X!
 common_fillers:

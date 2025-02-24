@@ -39,6 +39,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       every single X / each and every X
   - norwegian: |
        hvert eneste X
 common_fillers:

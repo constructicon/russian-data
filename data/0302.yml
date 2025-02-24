@@ -45,6 +45,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 209.'
 equivalents:
+  - english: |
+       seems like X / it seems to me that X / it looks like X / I got a feeling that X
   - norwegian: |
        jeg synes, ... / jeg tror...
 common_fillers:

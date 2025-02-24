@@ -53,6 +53,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. конструкции хватит (Pron-2.Dat) VP-Imp.Inf! (Хватит ругаться!), довольно (Pron-2.Dat) VP-Imp.Inf! (довольно жаловаться)'
 equivalents:
+  - english: |
+       X has had enough / X is done
   - norwegian: |
        X har fått nok
 common_fillers:

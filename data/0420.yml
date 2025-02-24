@@ -41,6 +41,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X, nevertheless Y / X, nonetheless Y / X, however Y
   - norwegian: |
        likevel / ikke desto mindre
 common_fillers:

@@ -43,6 +43,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       the most/least X of Y
   - norwegian: |
        X er den Y-Cmp av Z, f. eks. ‘August er den varmeste av alle sommermånedene’
 common_fillers:

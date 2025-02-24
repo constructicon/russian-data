@@ -46,6 +46,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       YX, e. g. shoebox / Y X, e. g. pickle jar
   - norwegian: |
        XY, f.eks. skoeske, ølflaske
 common_fillers:

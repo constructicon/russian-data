@@ -42,6 +42,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X Y a Z, e. g. several books a year
   - norwegian: |
        X Y i Z, f.eks. å utgi to romaner i året
 common_fillers:

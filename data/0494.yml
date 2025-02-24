@@ -37,6 +37,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       (Have a) good X!
   - norwegian: |
        X, f.eks. God natt!
 common_fillers:

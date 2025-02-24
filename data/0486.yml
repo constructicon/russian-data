@@ -45,6 +45,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 169.'
 equivalents:
+  - english: |
+       X is ashamed of Y for Z
   - norwegian: |
        X skjemmes over Y
 common_fillers:

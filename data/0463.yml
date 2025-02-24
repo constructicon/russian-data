@@ -52,6 +52,8 @@ dependency_structure_of_illustration:
 comment: |
     'Семья континуативных конструкций с семантикой Forever (towards the past) since remote past; mostly - inceptive continuative (with preposition "с")'
 equivalents:
+  - english: |
+       X since Y was Z years old / X since Y o'clock
   - norwegian: |
        å gjøre X siden Y år / å gjøre X siden klokka Y
 common_fillers:

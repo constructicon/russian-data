@@ -48,6 +48,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X bears the Y of Z, e. g. The family in the White House bears the name Trump. / X holds the Y of Z
   - norwegian: |
        X bære / ha Ys Z, f.eks. hun ha sin manns navn
 common_fillers:

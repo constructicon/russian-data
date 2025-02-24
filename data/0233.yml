@@ -43,6 +43,8 @@ dependency_structure_of_illustration:
 comment: |
     'Не путать с конструкцией 234.'
 equivalents:
+  - english: |
+       There's no way X / in no manner X / nohow X
   - norwegian: |
        å X slett ikke / å X aldeles ikke / å X absolutt ikke
 common_fillers:

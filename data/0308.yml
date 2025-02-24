@@ -35,6 +35,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       in short, X / in one word, X
   - norwegian: |
        som et resultat / alt i alt / generelt / kort sagt / fortalt
 common_fillers:

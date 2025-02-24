@@ -47,6 +47,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       (I) hope X don't Y
   - norwegian: |
        X håper at Y ikke Z, f.eks. Jeg håper at jeg ikke kommer for sent. / ...for at X ikke Y, f.eks. Noen jobber lange og slitsomme dager for at sjefen ikke skal bli misfornøyd.
 common_fillers:

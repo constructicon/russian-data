@@ -43,6 +43,8 @@ dependency_structure_of_illustration:
 comment: |
     'Кроме того, частотными заполнителями являются названия месяцев. Не путать с конструкциями 582 и 1635.'
 equivalents:
+  - english: |
+       X Y, e .g December issue, November salary
   - norwegian: |
        X for Y, f.eks. bladet for desember
 common_fillers:

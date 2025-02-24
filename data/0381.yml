@@ -38,6 +38,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X, Y-ing? e. g. Me, going to Södertälje? Never! / X, Y? e. g. Me go back to college at my age?
   - norwegian: |
        som om X ville gjøre/ville gjort Y
 common_fillers:

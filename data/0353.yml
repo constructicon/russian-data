@@ -48,6 +48,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию  366.'
 equivalents:
+  - english: |
+       Why are X Y?
   - norwegian: |
        hvorfor...
 common_fillers:

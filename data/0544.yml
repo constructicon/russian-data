@@ -40,6 +40,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X is noted for Y
   - norwegian: |
        X skiller seg ut (fra andre) ved Y
 common_fillers:

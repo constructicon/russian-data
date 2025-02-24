@@ -47,6 +47,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X on behalf of Y
   - norwegian: |
        å X på vegne av Y
 common_fillers:

@@ -41,6 +41,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       the Y-st Z in the X / the Y-st Z of the X
   - norwegian: |
        den mest X Y Z / den X-ste Y Z, f.eks. Det er det beste minnet det siste året.
 common_fillers:

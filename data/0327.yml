@@ -38,6 +38,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       Another thing is X / whether X
   - norwegian: |
        Det er ikke som X
 common_fillers:

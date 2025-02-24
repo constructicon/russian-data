@@ -41,6 +41,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       the lesser of X / the smaller of X / the Y-st of X
   - norwegian: |
        det minste onde
 common_fillers:

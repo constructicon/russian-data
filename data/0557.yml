@@ -46,6 +46,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую по значению конструкцию 559.'
 equivalents:
+  - english: |
+       X to Y / X in order to Y / X (so) that Y
   - norwegian: |
        ..., for å...
 common_fillers:

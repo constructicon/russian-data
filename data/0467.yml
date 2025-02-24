@@ -42,6 +42,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X sent Y to Z
   - norwegian: |
        sende X til Y
 common_fillers:

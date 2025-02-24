@@ -48,6 +48,8 @@ dependency_structure_of_illustration:
 comment: |
     'Частотными заполнителями являются глаголы, обозначающие веселое, непринужденное времяпрепровождение, развлечения; глаголы речи; глаголы, обозначающие негативные эмоциональные переживания.'
 equivalents:
+  - english: |
+       X and that's it
   - norwegian: |
        det er nok av å X
 common_fillers:

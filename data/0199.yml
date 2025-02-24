@@ -49,6 +49,8 @@ dependency_structure_of_illustration:
 comment: |
     'Не путать с конструкцией 2355.'
 equivalents:
+  - english: |
+       it won't/didn't take X to Y / not X had passed before Y / Y withing X / in less than X, Y / not a X will pass after Y
   - norwegian: |
        i løpet av X
 common_fillers:

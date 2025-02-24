@@ -52,6 +52,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       Let's go X, e. g. Let's go see that horse.
   - norwegian: |
        la oss gå og X
 common_fillers:

@@ -47,6 +47,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X can Y / one can Y
   - norwegian: |
        Det er mulig å X / man kan X
 common_fillers:

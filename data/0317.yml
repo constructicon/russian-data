@@ -45,6 +45,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       There were so many X (that) Y
   - norwegian: |
        Det var så mange X, at... / Det var så mye X, at...
 common_fillers:

@@ -47,6 +47,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X hates Y/Y-ing / X can't stand Y
   - norwegian: |
        X hater Y / X synes Y er grusomt
 common_fillers:

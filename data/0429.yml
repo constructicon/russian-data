@@ -41,6 +41,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       Oh, how X! / Oh, what a X! / Oh, that's so X!
   - norwegian: |
        Å, så X!
 common_fillers:

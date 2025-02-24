@@ -41,6 +41,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       the Y-st among X-s / the Y-st pf X-s
   - norwegian: |
        den mest X Y blant Z / den X-ste Y blant Z, f.eks. Hun er den rikeste blant hennes venner.
 common_fillers:

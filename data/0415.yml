@@ -49,6 +49,8 @@ dependency_structure_of_illustration:
 comment: |
     'Также существует конструкция "с той поры, как Cl", которой пока нет в конструктиконе. См. близкую конструкцию 1348 с той поры Cl (С той поры вышло много моих книг).'
 equivalents:
+  - english: |
+       X (ever) since Y
   - norwegian: |
        ... siden ...
 common_fillers:

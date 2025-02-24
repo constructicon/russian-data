@@ -44,6 +44,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X is in Y
   - norwegian: |
        X oppholder seg på Y / X oppholder seg i Y / X er på Y / X er i Y
 common_fillers:

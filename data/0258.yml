@@ -48,6 +48,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X stinks/smells like Y / X stinks/smells of X
   - norwegian: |
        X stinker Y / X lukter som Y / Det lukter Y av X
 common_fillers:

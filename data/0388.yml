@@ -39,6 +39,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X isn't Y's thing / X is not about Y
   - norwegian: |
        det er ikke X
 common_fillers:

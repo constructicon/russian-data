@@ -47,6 +47,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       it is not a X but a Y / X is like Y
   - norwegian: |
        X er som Y
 common_fillers:

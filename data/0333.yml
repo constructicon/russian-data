@@ -44,6 +44,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       a crowd of X / a throng of X / a mob of X
   - norwegian: |
        X-mengde, f.eks. Så mange skudd avfyrt inn i folkemengden. / en folk X / en folk med X / massevis av X
 common_fillers:

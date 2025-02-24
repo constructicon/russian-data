@@ -42,6 +42,8 @@ dependency_structure_of_illustration:
 comment: |
     'Ср. близкую конструкцию 537.'
 equivalents:
+  - english: |
+       X of the X, e. g. one of the last
   - norwegian: |
        X er av Y, f.eks. Han er av de stille.
 common_fillers:

@@ -48,6 +48,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X plays no role / X doesn't play any role / X has no role
   - norwegian: |
        X spiller ingen rolle
 common_fillers:

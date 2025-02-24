@@ -46,6 +46,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       It would be good/nice to X
   - norwegian: |
        det ville være fint om...
 common_fillers:

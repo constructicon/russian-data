@@ -44,6 +44,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       allegedly X / seems like X
   - norwegian: |
        som om X
 common_fillers:

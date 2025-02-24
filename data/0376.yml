@@ -43,6 +43,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       What do I need X for, if Y
   - norwegian: |
        X trenger ikke Y, hvis... / Hva bryr X seg om Y, hvis ...?
 common_fillers:

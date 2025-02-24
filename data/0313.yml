@@ -41,6 +41,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       according to X, Y / pursuant to X, Y
   - norwegian: |
        ifølge X, ... / i samsvar med X, ...
 common_fillers:

@@ -57,6 +57,8 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию NP-Nom Cop не так (уж и) Pred/Adj-Short/не так (уж и) Adv VP (Всё не так уж и плохо).'
 equivalents:
+  - english: |
+       X is not too/so/that Y
   - norwegian: |
        X er ikke så Y / X er ikke noen Y
 common_fillers:

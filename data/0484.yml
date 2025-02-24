@@ -40,6 +40,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X has to Y / It's time to Y / X gotta Y
   - norwegian: |
        det er på tide for X å Y
 common_fillers:

@@ -53,6 +53,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X cost Y Z roubles, e. g. That motor cost me three pounds.
   - norwegian: |
        X kostet NumCrd rubler, f.eks. Festen kostet oss 50.000 kroner.
 common_fillers:

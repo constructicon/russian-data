@@ -41,6 +41,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       It's not a case of X / It's hardly a X
   - norwegian: |
        ingen X...
 common_fillers:

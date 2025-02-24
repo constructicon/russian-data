@@ -46,6 +46,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X is too Y to Z
   - norwegian: |
        å være alfor X til å Y / å være for X til å Y
 common_fillers:

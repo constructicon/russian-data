@@ -48,6 +48,8 @@ dependency_structure_of_illustration:
 comment: |
     'Ср. с похожей конструкцией 100 далеко до NP-Gen (Ещё было далеко до дома.)'
 equivalents:
+  - english: |
+       X is far from Y / X is no match for Y
   - norwegian: |
        X er langt fra Y
 common_fillers:

@@ -39,6 +39,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X is (a/the) X / X remains
   - norwegian: |
        X er jo X / X er alltid en X
 common_fillers:

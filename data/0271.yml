@@ -50,6 +50,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X under the guise of Y
   - norwegian: |
        X later som Y/ X er forkledd som Y
 common_fillers:

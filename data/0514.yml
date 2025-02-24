@@ -48,6 +48,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X takes Y Z, e. g. that took 10 minutes
   - norwegian: |
        X tok NumCrd Y, f.eks. Det tok omtrent to timer.
 common_fillers:

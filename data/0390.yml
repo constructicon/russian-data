@@ -38,6 +38,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       the most X of Y / the X-st of Y
   - norwegian: |
        den mest X Y, f.eks. Bibelen er den mest berømte bok. / den X-ste Y, f.eks. Bibelen er den eldste bok som finnes.
 common_fillers:

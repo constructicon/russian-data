@@ -36,6 +36,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X bears the (weight of a) Y / X carries the Y / X is punished / X is subject to Y
   - norwegian: |
        X bærer Y, f.eks. Han bar selv våre synder. / X betalte Y for Z, f.eks. Han betalte den maksimale straff for synd.
 common_fillers:

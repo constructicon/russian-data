@@ -48,6 +48,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       Don't X? (e. g. Don't you think you're too selfish for doing that?)
   - norwegian: |
        virkelig X
 common_fillers:

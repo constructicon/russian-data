@@ -39,6 +39,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X is all about Y / X is just Y
   - norwegian: |
        X bare Y, f.eks. Det sier du bare for å såre meg.
 common_fillers:

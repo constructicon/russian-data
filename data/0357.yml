@@ -47,6 +47,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       the X-er the Y-er
   - norwegian: |
        det/desto X det/desto Y
 common_fillers:

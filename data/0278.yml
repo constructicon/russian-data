@@ -39,6 +39,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       provided X / provided that X / subject to X
   - norwegian: |
        hvis... / forutsatt at...
 common_fillers:

@@ -44,6 +44,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       whatever you say, X / no matter what, X
   - norwegian: |
        uansett hva man sier, ... / hva som enn X
 common_fillers:

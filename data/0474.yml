@@ -38,6 +38,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       X looks Y
   - norwegian: |
        X ser ut til å være Y år / X ser ut som han/henne er Y år gammel.
 common_fillers:

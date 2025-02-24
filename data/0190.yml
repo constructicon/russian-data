@@ -38,6 +38,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       Well, X / Wow, X / What a thing, X / Good grief, X
   - norwegian: |
        jøss, ...
 common_fillers:
